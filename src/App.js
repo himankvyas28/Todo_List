@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h2>📝 Todo List data</h2>
+      <h2>📝 Todo List</h2>
       <div style={styles.inputSection}>
         <input
           type="text"
